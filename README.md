@@ -1,6 +1,3 @@
-# ranesesth.github.io
-
-
 # Best match of the year.
 <img src="https://github.com/ranesesth/ranesesth.github.io/blob/master/wpd/Images/IMARNOLF.png"/>
 
