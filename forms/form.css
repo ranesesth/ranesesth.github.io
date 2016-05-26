@@ -111,4 +111,34 @@ form#signup input[type="checkbox"]:checked + label {
 form#signup [type="radio"]:checked +label {
 	background-position:0px -60px;
 }
-	
+
+form#signup input#email {
+	font-size:.9em;
+	background:rgba(255, 255, 255, .8)
+	url(images/icon_email.svg) no repeat 7px 6px;
+	background-size:30px 17px;
+	padding:5px 0px 6px 47px;
+	margin:0px 0px 12px 0px;
+	border:none;
+	color: #264581;
+	widows:80%;
+}
+
+form#signup input#emial:hover {
+	background-color: #fff;
+}
+
+form#signup input[type="submit"] {
+	font-size:.9em;
+	font-weight:700;
+	background-color:#264581;
+	margin:10px 0px 5px 0px;
+	padding:10px 25px;
+	border-radius:5px;
+	cursor:pointer;
+	-webkit-appearance:none;
+}
+
+form#signup input[type="submit"]:hover {
+	color:#ffd34c;
+}
